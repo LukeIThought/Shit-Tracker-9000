@@ -55,6 +55,6 @@ int main() {
     fclose(fptr);
     fptr = NULL;
   }
-  printf("Written changes to log file in your working directory at st9k.log!");
+  printf("Written changes to log file in your working directory at st9k.log!\n");
   return 0;
 }
